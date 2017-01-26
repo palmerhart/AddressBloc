@@ -172,8 +172,6 @@ class MenuController
                 puts "#{selection} is not a valid input"
                 puts entry.to_s
                 search_submenu(entry)
-            end
         end
     end
     
-end
